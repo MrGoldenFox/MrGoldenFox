@@ -2,7 +2,7 @@
 
 🎯 Frontend Developer | 💻 React / Svelte / Tailwind / JavaScript / API / CSS / HTML
 📍 Sacramento, California  
-📧 [mrgoldenfoxnear@gmail.com](mailto:mrgoldenfoxnear@gmail.com) | 🌐 [vitaliitymko.com](https://vitaliitymko.com)
+📧 [mrgoldenfoxnear@gmail.com](mailto:mrgoldenfoxnear@gmail.com) | 🌐 [vitaliitymko.com](https://vitaliitymko.com/me)
 
 ---
 
