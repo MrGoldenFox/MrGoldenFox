@@ -44,5 +44,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/vitalii-tymko-a554081b8/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram)](https://t.me/Tymkoo)
-[![Portfolio](https://img.shields.io/badge/Website-vitaliitymko.com-black?style=flat&logo=firefox-browser)](https://vitaliitymko.com)
+[![Portfolio](https://img.shields.io/badge/Website-vitaliitymko.com-black?style=flat&logo=firefox-browser)](https://vitaliitymko.com/me)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/MrGoldenFox)
