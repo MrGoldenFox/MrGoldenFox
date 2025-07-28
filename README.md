@@ -1,4 +1,4 @@
-# Hi, I'm Vitalii Tymko 👋
+# Hi, I'm Vitalii👋
 
 🎯 Frontend Developer | 💻 React / Svelte / Tailwind / JavaScript / API / CSS / HTML
 📍 Sacramento, California  
