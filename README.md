@@ -22,20 +22,13 @@
 
 | Project | Stack | Live Demo | Code |
 |--------|-------|-----------|------|
-| **Movie App** | React, Tailwind, TMDB API | [Live](https://movieverse-gamma.vercel.app) | [GitHub](https://github.com/MrGoldenFox/movie-app) |
-| **Task Manager** | React, Context API | [Live](https://taskmanagerfox.netlify.app) | [GitHub](https://github.com/MrGoldenFox/taskmanager) |
-| **Executive Washrooms** | Svelte | [Live](https://www.executivewashrooms.com) | Private |
+| **Movie App** | React, Tailwind, TMDB API | [Live](https://movie-app-reaact.netlify.app/) | [GitHub](https://github.com/MrGoldenFox/movie-app) |
+| **Task Manager** | React, Context API | [Live](https://tasks-manag.netlify.app/) | [GitHub](https://github.com/MrGoldenFox/taskmanager) |
+| **Executive Washrooms** | Svelte | [Live](https://executive-washrooms.com/) | Private |
 | **Ateks Bau** | Svelte | [Live](https://ateksbau.de) | Private |
 | **Golden Horizon Studio** | Svelte | [Live](https://www.goldenhorizon.studio) | Private |
-| **Portfolio Website** | Svelte, Tailwind | [Live](https://vitaliitymko.com) | [GitHub](https://github.com/MrGoldenFox/portfolio) |
+| **Portfolio Website** | Svelte, Tailwind | [Live](https://vitaliitymko.com/me) | Private |
 | **Vida Pro Beary** | Svelte, Booking | [Live](https://vidaprobeauty.com/) | Private |
-
-
----
-
-## 📊 GitHub Stats
-
-![Vitalii's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrGoldenFox&show_icons=true&theme=tokyonight)
 
 ---
 
