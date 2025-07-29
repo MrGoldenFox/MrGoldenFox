@@ -22,8 +22,8 @@
 
 | Project | Stack | Live Demo | Code |
 |--------|-------|-----------|------|
-| **Movie App** | React, Tailwind, TMDB API | [Live](https://movie-app-reaact.netlify.app/) | [GitHub](https://github.com/MrGoldenFox/movie-app) |
-| **Task Manager** | React, Context API | [Live](https://tasks-manag.netlify.app/) | [GitHub](https://github.com/MrGoldenFox/taskmanager) |
+| **Movie App** | React, Tailwind, TMDB API | [Live](https://movie-app-reaact.netlify.app/) | [GitHub](https://github.com/MrGoldenFox/movies-app-react) |
+| **Task Manager** | React, Context API | [Live](https://tasks-manag.netlify.app/) | [GitHub](https://github.com/MrGoldenFox/task-manager-react) |
 | **Executive Washrooms** | Svelte | [Live](https://executive-washrooms.com/) | Private |
 | **Ateks Bau** | Svelte | [Live](https://ateksbau.de) | Private |
 | **Golden Horizon Studio** | Svelte | [Live](https://www.goldenhorizon.studio) | Private |
