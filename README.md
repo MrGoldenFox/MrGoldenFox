@@ -12,8 +12,10 @@
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3)
+![API](https://img.shields.io/badge/API-0A0A0A?style=flat&logo=json)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite)
 
 ---
